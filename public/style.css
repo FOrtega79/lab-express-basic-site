@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.bkg-main{
+    background-image: url(/images/michael-jordan-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.row{
+ padding-top: 150px;
+}
+
